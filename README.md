@@ -58,7 +58,7 @@
 
 <h2> Reach out to me: </h2>
 <p align="left">
-<a href="www.linkedin.com/in/raunak-roy-636947270/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/raunak-roy-636947270/"/></a></p>
+<a href="[www.linkedin.com/in/raunak-roy-636947270/](https://www.linkedin.com/in/raunak-roy-636947270/)" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/raunak-roy-636947270/"/></a></p>
 
 
 <!--
