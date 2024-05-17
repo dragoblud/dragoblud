@@ -41,6 +41,18 @@
 
 <br><br><br>
 
+<h2> Data Science Tools: </h2>
+<p>
+  <img align = "left" src = "https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"></img>
+  <img align = "left" src = "https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"></img>
+  <img align = "left" src = "https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"></img>
+  <img align = "left" src = "https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></img>
+  <img align = "left" src = "https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"></img>
+  <img align = "left" src = "https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"></img>
+</p>
+
+<br><br><br>
+
 <h2> Databases: </h2>
 <p>
   <img align = "left" src = "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></img>
